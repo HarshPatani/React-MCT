@@ -1,0 +1,16 @@
+@media screen and (max-width: 900px) {
+  .logo1 {
+    display: none;
+  }
+  .logo2 {
+    display: flex;
+  }
+}
+@media screen and (min-width: 900px) {
+  .logo1 {
+    display: flex;
+  }
+  .logo2 {
+    display: none;
+  }
+}

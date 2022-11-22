@@ -1,0 +1,8 @@
+.main-body {
+  margin: 2rem 0;
+  padding: 0 1rem;
+  max-width: 1200px;
+}
+.text-area:hover {
+  outline: 2px solid blue;
+}
